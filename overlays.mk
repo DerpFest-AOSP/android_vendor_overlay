@@ -58,7 +58,12 @@ PRODUCT_PACKAGES += \
     FontTinkerbellOverlay \
     FontStoropiaSourceOverlay \
     FontRobotoFlexRegularOverlay \
-    FontGoogleSansFlexRegularOverlay
+    FontGoogleSansFlexRegularOverlay \
+    FontChirpOverlay \
+    FontCirceOverlay \
+    FontEuclidRoundOverlay \
+    FontFluidOverlay \
+    FontSFProOverlay
 
 # Icon shapes
 PRODUCT_PACKAGES += \
