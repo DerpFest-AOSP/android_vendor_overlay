@@ -76,7 +76,7 @@ PRODUCT_PACKAGES += \
 
 # Other
 PRODUCT_PACKAGES += \
-    AndroidBlackThemeOverlay \
+    DerpFestBlackTheme \
     RoundQSOverlay
 
 # Statusbar Icons
