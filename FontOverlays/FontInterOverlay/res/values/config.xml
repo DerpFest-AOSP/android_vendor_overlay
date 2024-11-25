@@ -27,4 +27,6 @@
     <string name="config_lightFontFamily" translatable="false">inter</string>
     <!-- Name of a font family to use as regular font. For theming purpose. -->
     <string name="config_regularFontFamily" translatable="false">inter</string>
+    <!-- Allows setting custom fontFeatureSettings on specific text. -->
+    <string name="config_headlineFontFeatureSettings">ss03</string>
 </resources>
