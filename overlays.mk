@@ -168,6 +168,3 @@ PRODUCT_PACKAGES += \
     NavbarKronicOverlay \
     NavbarDoraOverlay \
     NavbarPDOverlay
-
-# QS Gradient
-PRODUCT_PACKAGES += LineageQSGradient
