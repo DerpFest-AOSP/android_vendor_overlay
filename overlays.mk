@@ -57,6 +57,9 @@ PRODUCT_PACKAGES += \
 
 # Icon shapes
 PRODUCT_PACKAGES += \
+    IconShapeArchOverlay \
+    IconShapeFourSidedCookieOverlay \
+    IconShapeSevenSidedCookieOverlay \
     IconShapeFlowerOverlay \
     IconShapeHeartOverlay \
     IconShapeHexagonOverlay \
