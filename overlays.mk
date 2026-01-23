@@ -30,6 +30,7 @@ PRODUCT_PACKAGES += \
     FontRubikRubikOverlay \
     FontAclonicaSourceOverlay \
     FontAmaranteSourceOverlay \
+    FontAnaheimSourceOverlay \
     FontBariolSourceOverlay \
     FontCagliostroSourceOverlay \
     FontComfortaaSourceOverlay \
