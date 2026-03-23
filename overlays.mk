@@ -87,6 +87,12 @@ PRODUCT_PACKAGES += \
     DerpFestBlackTheme \
     RoundQSOverlay
 
+# Clock / SmartSpace (custom clocks)
+PRODUCT_PACKAGES += \
+    HideSmartSpace \
+    SmartSpaceOffset \
+    HideClock
+
 # Statusbar Icons
 PRODUCT_PACKAGES += \
     AcherusSignalOverlay \

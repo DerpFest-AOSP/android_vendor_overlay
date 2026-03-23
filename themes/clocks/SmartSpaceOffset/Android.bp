@@ -1,0 +1,11 @@
+//
+// Copyright (c) 2023, the RisingOS Android Project
+//
+// SPDX-License-Identifier: Apache-2.0
+//
+runtime_resource_overlay {
+    name: "SmartSpaceOffset",
+    theme: "SmartSpaceOffset",
+    product_specific: true,
+    sdk_version: "current",
+}
