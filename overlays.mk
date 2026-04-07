@@ -166,6 +166,17 @@ PRODUCT_PACKAGES += \
     BrightnessSliderThinOverlay \
     BrightnessSliderTranslucentOverlay
 
+# Battery / charging animation / back gesture
+PRODUCT_PACKAGES += \
+    BatteryStyleOneUI7Overlay \
+    BatteryStyleiOS15Overlay \
+    BatteryStyleiOS16Overlay \
+    BatteryStyleOrigamiOverlay \
+    BatteryStyleSmileyOverlay \
+    MotoChargingAnimationOverlay \
+    NothingChargingAnimationOverlay \
+    BackGestureDotTrailOverlay
+
 # Navbar
 PRODUCT_PACKAGES += \
     NavbarAsusOverlay \
