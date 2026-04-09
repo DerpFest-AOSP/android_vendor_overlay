@@ -100,6 +100,7 @@ PRODUCT_PACKAGES += \
     AcherusSubsSignalTOverlay \
     BarsSignalOverlay \
     GradiconSignalOverlay \
+    HollowSignalOverlay \
     InsideSignalOverlay \
     IosSignalOverlay \
     LivSignalOverlay \
@@ -123,6 +124,7 @@ PRODUCT_PACKAGES += \
     BarsWiFiOverlay \
     DoraWiFiOverlay \
     GradiconWiFiOverlay \
+    HollowWiFiOverlay \
     InsideWiFiOverlay \
     LivWifiOverlay \
     NothingDotWiFiOverlay \
