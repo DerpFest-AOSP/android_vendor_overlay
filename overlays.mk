@@ -173,6 +173,7 @@ PRODUCT_PACKAGES += \
     BatteryStyleOneUI7Overlay \
     BatteryStyleiOS15Overlay \
     BatteryStyleiOS16Overlay \
+    BatteryStyleFaintUIOverlay \
     BatteryStyleOrigamiOverlay \
     BatteryStyleSmileyOverlay \
     MotoChargingAnimationOverlay \
