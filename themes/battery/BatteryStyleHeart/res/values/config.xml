@@ -7,6 +7,11 @@
     <integer name="config_batteryOverrideStyle">0</integer>
     <!-- Enlarges status bar battery ImageView slot (see BatteryMeterView.getBatterySlotScale). 200 ≈ 2× area vs default. -->
     <integer name="config_batteryMeterSlotScalePercent">200</integer>
+    <!-- Compose themed height scale (see BatteryViewModel.getStatusBarBatteryHeight); heart-specific vs smiley overlay. -->
+    <integer name="config_batteryMeterComposeVisualScalePercent">65</integer>
+    <bool name="config_batteryMeterPreferLegacyThemedDrawable">true</bool>
+    <!-- Compose: nudge drawable up vs WiFi/signal (negative dp). Tune if optical center still feels low. -->
+    <dimen name="config_batteryMeterThemedComposeDrawOffsetY">-1.5dp</dimen>
     <!-- Upright heart: uniform scale with padding, biased upward in the 12dp slot, then ~14% narrower (x) for balance. -->
     <!-- Dual-tone must stay true when fill mask matches perimeter (see ThemedBatteryDrawable non-dual union). -->
     <integer name="config_batterymeterWidth">24</integer>

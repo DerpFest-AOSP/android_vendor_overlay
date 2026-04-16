@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <integer name="config_batteryOverrideStyle">0</integer>
+    <!-- Slot / Compose scale: smiley is already wide (24×13); tune separately from heart (e.g. 200 / 55). -->
+    <integer name="config_batteryMeterSlotScalePercent">145</integer>
+    <integer name="config_batteryMeterComposeVisualScalePercent">88</integer>
+    <bool name="config_batteryMeterPreferLegacyThemedDrawable">true</bool>
     <!-- Buddy art: horizontal stretch 24/12 on X vs normalized 12-wide art; height unchanged. Design width 24 × height 13. -->
     <!-- Path data: commas between adjacent numbers. -->
     <integer name="config_batterymeterWidth">24</integer>
