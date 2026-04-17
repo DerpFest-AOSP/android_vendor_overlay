@@ -177,6 +177,7 @@ PRODUCT_PACKAGES += \
     BatteryStyleOrigamiOverlay \
     BatteryStyleSmileyOverlay \
     BatteryStyleHeartOverlay \
+    BatteryStyleBatteryInverterOverlay \
     MotoChargingAnimationOverlay \
     NothingChargingAnimationOverlay \
     BackGestureDotTrailOverlay
