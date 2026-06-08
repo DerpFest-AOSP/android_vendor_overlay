@@ -45,6 +45,8 @@ PRODUCT_PACKAGES += \
     FontOnePlusSansOverlay \
     FontJetBrainsMonoOverlay \
     FontJetBrainsMonoNLOverlay \
+    FontUbuntuSansOverlay \
+    FontUbuntuSansMonoOverlay \
     FontOneplusSlateSourceOverlay \
     FontOppoSansOverlay \
     FontFluidSansOverlay \
