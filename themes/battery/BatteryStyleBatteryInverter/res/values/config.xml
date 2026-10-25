@@ -7,7 +7,7 @@
     <integer name="config_batteryMeterComposeVisualScalePercent">65</integer>
     <bool name="config_batteryMeterPreferLegacyThemedDrawable">true</bool>
     <!-- Compose: nudge drawable up vs WiFi/signal (negative dp). Tune if optical center still feels low. -->
-    <dimen name="config_batteryMeterThemedComposeDrawOffsetY">-1.5dp</dimen>
+    <dimen name="config_batteryMeterThemedComposeDrawOffsetY">-0.5dp</dimen>
     <!-- Upright heart: uniform scale with padding, biased upward in the 12dp slot, then ~14% narrower (x) for balance. -->
     <!-- Dual-tone must stay true when fill mask matches perimeter (see ThemedBatteryDrawable non-dual union). -->
     <integer name="config_batterymeterWidth">24</integer>
