@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string-array name="udfps_animation_titles">
+        <item>Keine</item>
+        <item>Aurora</item>
+        <item>Blüte</item>
+        <item>Cyber</item>
+        <item>Elektronisch</item>
+        <item>Feuerwerk</item>
+        <item>Magie</item>
+        <item>Pacman</item>
+        <item>Scan</item>
+        <item>Einfach</item>
+        <item>Rauch</item>
+        <item>Warp</item>
+        <item>Wurmloch</item>
+        <item>MIUI-Standard</item>
+        <item>MIUI AOD</item>
+        <item>Aurora (K30 Pro)</item>
+        <item>Aurora (Mi 10 Ultra)</item>
+        <item>Licht</item>
+        <item>Pop</item>
+        <item>Puls</item>
+        <item>Puls (Weiß)</item>
+        <item>Rhythmus</item>
+        <item>Sternenlicht</item>
+        <item>Kosmos</item>
+        <item>Energie</item>
+        <item>McLaren</item>
+        <item>Kräuseln</item>
+        <item>Scannen (Cyberpunk 2077)</item>
+        <item>Streifen</item>
+        <item>Welle</item>
+        <item>DNA</item>
+        <item>Zukunft</item>
+        <item>Halo-Ring</item>
+        <item>Molekular</item>
+        <item>Fusion</item>
+        <item>Pulsar</item>
+        <item>Supernova</item>
+        <item>Genshin</item>
+    </string-array>
+
+</resources>
