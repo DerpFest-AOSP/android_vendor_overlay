@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: DerpFest AOSP
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+
+    <!-- Tsanjer Jinkai overlay -->
+    <string name="font_tsanjerjinkai_overlay" translatable="false">Tsanjer Jinkai</string>
+
+</resources>

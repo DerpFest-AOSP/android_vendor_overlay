@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: DerpFest AOSP
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+
+    <!-- CyberPunk overlay -->
+    <string name="font_cyberpunk_overlay" translatable="false">CyberPunk</string>
+
+</resources>

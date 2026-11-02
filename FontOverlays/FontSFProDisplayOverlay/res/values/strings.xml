@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: DerpFest AOSP
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+
+    <!-- San Francisco Pro Display overlay -->
+    <string name="font_sfpro_display_overlay" translatable="false">San Francisco Pro Display</string>
+
+</resources>

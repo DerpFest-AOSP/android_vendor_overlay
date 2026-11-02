@@ -63,7 +63,24 @@ PRODUCT_PACKAGES += \
     FontCirceOverlay \
     FontEuclidRoundOverlay \
     FontFluidOverlay \
-    FontSFProOverlay
+    FontSFProOverlay \
+    FontCalibriOverlay \
+    FontCoconNextOverlay \
+    FontCyberPunkOverlay \
+    FontDynaOverlay \
+    FontJosefinSansOverlay \
+    FontKometaOverlay \
+    FontMadeEvoOverlay \
+    FontMadeforOverlay \
+    FontMiSansOverlay \
+    FontMyriadOverlay \
+    FontNimbusOverlay \
+    FontQuicksandOverlay \
+    FontSFProDisplayOverlay \
+    FontSegoeOverlay \
+    FontSpaceGroteskOverlay \
+    FontTrebuchetOverlay \
+    FontTsanjerJinkaiOverlay
 
 # Icon shapes
 PRODUCT_PACKAGES += \

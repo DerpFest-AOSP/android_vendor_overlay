@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: DerpFest AOSP
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+
+    <!-- Calibri overlay -->
+    <string name="font_calibri_overlay" translatable="false">Calibri</string>
+
+</resources>
